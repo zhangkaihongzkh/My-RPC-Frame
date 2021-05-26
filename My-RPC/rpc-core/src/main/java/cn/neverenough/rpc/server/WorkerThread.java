@@ -1,8 +1,8 @@
-package rpc.server;
+package cn.neverenough.rpc.server;
 
 
-import cn.everenough.entity.RpcRequest;
-import cn.everenough.entity.RpcResponse;
+import cn.neverenough.entity.RpcRequest;
+import cn.neverenough.entity.RpcResponse;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

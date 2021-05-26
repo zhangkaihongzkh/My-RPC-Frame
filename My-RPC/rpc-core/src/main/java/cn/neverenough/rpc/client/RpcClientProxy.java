@@ -1,7 +1,7 @@
-package rpc.client;
+package cn.neverenough.rpc.client;
 
-import cn.everenough.entity.RpcRequest;
-import cn.everenough.entity.RpcResponse;
+import cn.neverenough.entity.RpcRequest;
+import cn.neverenough.entity.RpcResponse;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

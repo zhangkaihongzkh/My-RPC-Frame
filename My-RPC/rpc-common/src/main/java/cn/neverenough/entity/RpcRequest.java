@@ -1,4 +1,4 @@
-package cn.everenough.entity;
+package cn.neverenough.entity;
 
 import lombok.Builder;
 import lombok.Data;

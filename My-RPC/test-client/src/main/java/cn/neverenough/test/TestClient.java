@@ -2,8 +2,7 @@ package cn.neverenough.test;
 
 import cn.neverenough.rpc.api.HelloObject;
 import cn.neverenough.rpc.api.HelloService;
-import rpc.client.RpcClient;
-import rpc.client.RpcClientProxy;
+import cn.neverenough.rpc.client.RpcClientProxy;
 
 public class TestClient {
     public static void main(String[] args) {

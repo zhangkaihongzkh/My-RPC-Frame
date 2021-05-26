@@ -1,4 +1,4 @@
-package cn.everenough.entity;
+package cn.neverenough.entity;
 
 import cn.neverenough.enumeration.ResponseCode;
 import lombok.Data;
